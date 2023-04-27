@@ -12,7 +12,7 @@ As for who would be the one hosting the site, Dean Alexander Santos Buno has pub
 
 ## Environment
 
-
+The environment that we are using is the same as where we are hosting the site, which is SiteGround.
 
 ## Development Workflow
 
