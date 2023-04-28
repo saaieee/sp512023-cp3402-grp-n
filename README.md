@@ -9,7 +9,7 @@ This website is created by students of James Cook University Singapore, Group N 
 
 These are the students that are in Group N that makes this website possible:
 - Dean Alexander Santos Buno ()
-- Nathanael Finian ()
+- Nathanael Finian (14219778)
 - Maanas Kunchala ()
 - Saaipranav Subramanian ()
 - Haoyi Shan ()

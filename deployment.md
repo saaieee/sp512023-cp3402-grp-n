@@ -16,3 +16,4 @@ The environment that we are using is the same as where we are hosting the site, 
 
 ## Development Workflow
 
+![plot](./CMS Workflow.png)
