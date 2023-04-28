@@ -8,9 +8,9 @@ This website is created by students of James Cook University Singapore, Group N 
 ## Team
 
 These are the students that are in Group N that makes this website possible:
-- Dean Alexander Santos Buno ()
+- Dean Alexander Santos Buno (14167000)
 - Nathanael Finian ()
-- Maanas Kunchala ()
+- Maanas Kunchala (14205281)
 - Saaipranav Subramanian ()
 - Haoyi Shan ()
 - Hagen Rahardjo ()
