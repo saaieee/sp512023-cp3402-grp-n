@@ -16,4 +16,4 @@ The environment that we are using is the same as where we are hosting the site, 
 
 ## Development Workflow
 
-![plot](./CMS Workflow.png)
+![Workflow](https://github.com/nathanfinian/sp512023-cp3402-grp-n/blob/main/CMS%20Workflow.png?raw=true)
