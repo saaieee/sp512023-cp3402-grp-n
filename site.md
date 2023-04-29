@@ -23,6 +23,18 @@ This is the page that shows the classes that are going on throughout the week.<b
 Here is the list of what to expect in the Classes Page:
 - Link to two other posts (Schedule, Session) to let the user know the classes and timings.
 
+### Registration
+This is the page that will allow users to register into the class.<br><br>
+Here is the list of what to expect in the Registration Page:
+- Form with at least these fields:
+    - Full Name (can be one input, or two separating the first and last names).
+    - Contact Number.
+    - School.
+    - Level/Grade (Primary/Lower Secondary/Upper Secondary/Junior College/Advanced)
+    - Class Interested.
+    - Optional Message.
+    - Submit.
+
 ## Posts
 
 
