@@ -63,5 +63,16 @@ Posts under the News category show the latest events of what is going on in Baiz
 #### Events and Promotions
 Posts under the Events and Promotions category show the special events that will be held, to entice users to book for these events, including some offers.
 
+### Classes Posts
+There are two posts within the About page:
+- Schedule.
+- Session.
+
+#### Schedule
+Posts under the Schedule category show the timetable of the classes going on throughout the week.
+
+#### Session
+Posts under the Session category show the classes available, along with the description of each class.
+
 ## Plugins
 
