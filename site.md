@@ -12,6 +12,11 @@ Here is the list of what to expect from the Home Page:
 - Mention the history of Baizonn, alongside what they provide.
 - Mention the two acronyms of F.A.S.T and S.T.E.M.
 
+### About
+This is the page where it goes into depth of who Baizonn is.<br><br>
+Here is the list of what to expect in the About Page:
+- Mention the three values of what makes Baizonn them.
+
 ## Posts
 
 
