@@ -18,6 +18,11 @@ Here is the list of what to expect in the About Page:
 - Mention the three values of what makes Baizonn them.
 - Link to two posts (News, Events and Promotions) to spread awareness of what is in store for the user.
 
+### Classes
+This is the page that shows the classes that are going on throughout the week.<br><br>
+Here is the list of what to expect in the Classes Page:
+- Link to two other posts (Schedule, Session) to let the user know the classes and timings.
+
 ## Posts
 
 
