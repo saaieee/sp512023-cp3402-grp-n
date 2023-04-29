@@ -35,6 +35,20 @@ Here is the list of what to expect in the Registration Page:
     - Optional Message.
     - Submit.
 
+### Contact
+This is the page that will allow users to clarify any doubts.<br><br>
+Here is the list of what to expect in the Contact Page:
+- Map of the location of Baizonn Learning.
+- Details of Baizonn Learning, including by not limited to:
+    - Email.
+    - Address.
+- Form with at least these fields:
+    - Full Name (can be one input, or two separating the first and last names).
+    - Email.
+    - Subject.
+    - Inquiry.
+    - Submit.
+
 ## Posts
 
 
