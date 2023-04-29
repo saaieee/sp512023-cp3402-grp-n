@@ -16,6 +16,7 @@ Here is the list of what to expect from the Home Page:
 This is the page where it goes into depth of who Baizonn is.<br><br>
 Here is the list of what to expect in the About Page:
 - Mention the three values of what makes Baizonn them.
+- Link to two posts (News, Events and Promotions) to spread awareness of what is in store for the user.
 
 ## Posts
 
