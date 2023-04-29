@@ -76,3 +76,7 @@ Posts under the Session category show the classes available, along with the desc
 
 ## Plugins
 
+Plugins help us in adding additional features to the existing WordPress tool, which allows us to add important items into the website that we just cannot get from the website itself.<br><br>
+
+Here is the list of plugins that we have installed for the project. Keep in mind that SiteGround Optimizer and SiteGround Security will not be mentioned since it comes with the SiteGround hosting to begin with:
+- Fonts Plugin | Google Fonts Typography — The easiest to use Google Fonts Plugin. No coding required. Optimized for Speed. 1000+ font choices. This allows us to choose the font from Google for our website.
