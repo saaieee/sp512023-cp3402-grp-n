@@ -21,4 +21,4 @@ The design decisions here would be based on what we want our design to look like
 
 ### Colors
 
-We make use of a simple color palette, of which two colors are from the main logo itself (#000000, #F2F4F3, #1C71B4, #2CAB52, #70483C).
+We make use of a simple color palette, of which two colors are from the main logo itself (#000000, #F2F4F3, #2CAB52, #1C71B4, #70483C).
