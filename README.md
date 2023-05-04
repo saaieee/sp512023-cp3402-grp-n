@@ -8,12 +8,12 @@ This website is created by students of James Cook University Singapore, Group N 
 ## Team
 
 These are the students that are in Group N that makes this website possible:
-- Dean Alexander Santos Buno (14167000)
-- Nathanael Finian (14219778)
-- Maanas Kunchala (14205281)
-- Saaipranav Subramanian ()
-- Haoyi Shan ()
-- Hagen Rahardjo ()
+- Dean Alexander Santos Buno (<a href="https://www.linkedin.com/in/dean-alexander-bu%C3%B1o-68414526a/">Linkedin Link</a>) (14167000)
+- Nathanael Finian (<a href=""></a>) (14219778)
+- Maanas Kunchala (<a href="https://www.linkedin.com/in/maanas-kunchala-97b056275/">Linkedin Link</a>) (14187892)
+- Saaipranav Subramanian (<a href="https://www.linkedin.com/in/saaipranav-subramanian-260356217">Linkedin Link</a>) (14205281)
+- Haoyi Shan (<a href="https://www.linkedin.com/in/haoyi-shan-42a057275/">Linkedin Link</a>) (14124782)
+- Hagen Rahardjo (<a href=""></a>) ()
 
 ## Repository Contents
 
