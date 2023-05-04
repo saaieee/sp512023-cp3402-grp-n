@@ -10,15 +10,13 @@ Both the starter and the chosen theme allows us to create a template without aff
 ## Design Decisions
 The design decisions here would be based on what we want our design to look like. This section will be split into three parts — Structure, Typography, and Colors.
 
-
 ### Structure
 
 
-
 ### Typography
-
-
+We make use of the Google Fonts Plugin and selected these two fonts:
+- Vollkorn (serif font for the headings)
+- Verdana (sans-serif font for other text, including buttons)
 
 ### Colors
-
-We make use of a simple color palette, of which two colors are from the main logo itself (#000000, #F2F4F3, #2CAB52, #1C71B4, #70483C).
+We make use of a simple color palette, of which two colors are from the main logo itself (#000000, #F2F4F3, #2CAB52, #1C71B4, #33A7B5).
