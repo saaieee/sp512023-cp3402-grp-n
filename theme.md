@@ -11,7 +11,7 @@ Both the starter and the chosen theme allows us to create a template without aff
 The design decisions here would be based on what we want our design to look like. This section will be split into three parts — Structure, Typography, and Colors.
 
 ### Structure
-
+By utilizing the site editor, we will be able to edit the theme based on the templates themselves or parts of the templates, like the header and footer.
 
 ### Typography
 We make use of the Google Fonts Plugin and selected these two fonts:
