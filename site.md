@@ -11,17 +11,17 @@ Here is the list of what to expect from the Home Page:
 - In each slide of the slider or picture, add links (buttons) to other pages like the registration, contact form, and blogs of other events.
 - Mention the history of Baizonn, alongside what they provide.
 - Mention the two acronyms of F.A.S.T and S.T.E.M.
+- Link to two post types (News, Events and Promotions) to spread awareness of what is in store for the user.
 
 ### About
 This is the page where it goes into depth of who Baizonn is.<br><br>
 Here is the list of what to expect in the About Page:
 - Mention the three values of what makes Baizonn them.
-- Link to two posts (News, Events and Promotions) to spread awareness of what is in store for the user.
 
 ### Classes
 This is the page that shows the classes that are going on throughout the week.<br><br>
 Here is the list of what to expect in the Classes Page:
-- Link to two other posts (Schedule, Session) to let the user know the classes and timings.
+- Link to two other post types (Schedule, Session) to let the user know the classes and timings.
 
 ### Registration
 This is the page that will allow users to register into the class.<br><br>
@@ -50,10 +50,10 @@ Here is the list of what to expect in the Contact Page:
     - Submit.
 
 ## Posts
-These are the dynamic posts that we can add, modify, or remove regularly. These posts are linked by two of the five static pages, About and Classes.
+These are the dynamic posts that we can add, modify, or remove regularly. These posts are linked by two of the five static pages, Home and Classes.
 
-### About Posts
-There are two posts within the About page:
+### Home Posts
+There are two posts within the Home page:
 - News.
 - Events and Promotions.
 
