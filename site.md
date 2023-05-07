@@ -11,17 +11,17 @@ Here is the list of what to expect from the Home Page:
 - In each slide of the slider or picture, add links (buttons) to other pages like the registration, contact form, and blogs of other events.
 - Mention the history of Baizonn, alongside what they provide.
 - Mention the two acronyms of F.A.S.T and S.T.E.M.
+- Link to two post types (News, Events and Promotions) to spread awareness of what is in store for the user.
 
 ### About
 This is the page where it goes into depth of who Baizonn is.<br><br>
 Here is the list of what to expect in the About Page:
 - Mention the three values of what makes Baizonn them.
-- Link to two posts (News, Events and Promotions) to spread awareness of what is in store for the user.
 
 ### Classes
 This is the page that shows the classes that are going on throughout the week.<br><br>
 Here is the list of what to expect in the Classes Page:
-- Link to two other posts (Schedule, Session) to let the user know the classes and timings.
+- Link to two other post types (Schedule, Session) to let the user know the classes and timings.
 
 ### Registration
 This is the page that will allow users to register into the class.<br><br>
@@ -50,10 +50,10 @@ Here is the list of what to expect in the Contact Page:
     - Submit.
 
 ## Posts
-These are the dynamic posts that we can add, modify, or remove regularly. These posts are linked by two of the five static pages, About and Classes.
+These are the dynamic posts that we can add, modify, or remove regularly. These posts are linked by two of the five static pages, Home and Classes.
 
-### About Posts
-There are two posts within the About page:
+### Home Posts
+There are two posts within the Home page:
 - News.
 - Events and Promotions.
 
@@ -78,5 +78,11 @@ Posts under the Session category show the classes available, along with the desc
 
 Plugins help us in adding additional features to the existing WordPress tool, which allows us to add important items into the website that we just cannot get from the website itself.<br><br>
 
-Here is the list of plugins that we have installed for the project. Keep in mind that SiteGround Optimizer and SiteGround Security will not be mentioned since it comes with the SiteGround hosting to begin with:
-- Fonts Plugin | Google Fonts Typography — The easiest to use Google Fonts Plugin. No coding required. Optimized for Speed. 1000+ font choices. This allows us to choose the font from Google for our website.
+Here is the list of plugins that we have installed for the project.
+- SiteGround Optimizer — This plugin will link your WordPress application with all the performance optimizations provided by SiteGround. (Link: <a href="https://www.siteground.com/">https://www.siteground.com/</a>)
+- SiteGround Security — SiteGround Security is the all-in-one security solution for your WordPress website. Protect login & limit login attempts. User activity log. Lock system folders & more. (Link: <a href="https://www.siteground.com/">https://www.siteground.com/</a>)
+- Fonts Plugin | Google Fonts Typography — The easiest to use Google Fonts Plugin. No coding required. Optimized for Speed. 1000+ font choices. (Link: <a href="https://fontsplugin.com/?utm_source=wporg&utm_medium=readme&utm_campaign=description">https://fontsplugin.com/?utm_source=wporg&utm_medium=readme&utm_campaign=description</a>)
+- Smart Slider 3 — The perfect all-in-one responsive slider solution for WordPress. (Link: <a href="https://smartslider3.com/">https://smartslider3.com/</a>)
+- Theme Check — A simple and easy way to test your theme for all the latest WordPress standards and practices. A great theme development tool! (Link: <a href="https://wordpress.org/plugins/theme-check/">https://wordpress.org/plugins/theme-check/</a>)
+- Timetable and Event Schedule — Smart time-management tool with a clean minimalist design for featuring your timetables and upcoming events. (Link: <a href="https://motopress.com/">https://motopress.com/</a>)
+- WPForms Lite — Beginner friendly WordPress contact form plugin. Use our Drag & Drop form builder to create your WordPress forms. (Link: <a href="https://wpforms.com/">https://wpforms.com/</a>)
