@@ -81,6 +81,7 @@ Plugins help us in adding additional features to the existing WordPress tool, wh
 Here is the list of plugins that we have installed for the project.
 - SiteGround Optimizer — This plugin will link your WordPress application with all the performance optimizations provided by SiteGround. (Link: <a href="https://www.siteground.com/">https://www.siteground.com/</a>)
 - SiteGround Security — SiteGround Security is the all-in-one security solution for your WordPress website. Protect login & limit login attempts. User activity log. Lock system folders & more. (Link: <a href="https://www.siteground.com/">https://www.siteground.com/</a>)
+- All-in-One WP Migration — Migration tool for all your blog data. Import or Export your blog content with a single click. (Link: <a href="https://servmask.com/">https://servmask.com/</a>)
 - Fonts Plugin | Google Fonts Typography — The easiest to use Google Fonts Plugin. No coding required. Optimized for Speed. 1000+ font choices. (Link: <a href="https://fontsplugin.com/?utm_source=wporg&utm_medium=readme&utm_campaign=description">https://fontsplugin.com/?utm_source=wporg&utm_medium=readme&utm_campaign=description</a>)
 - Smart Slider 3 — The perfect all-in-one responsive slider solution for WordPress. (Link: <a href="https://smartslider3.com/">https://smartslider3.com/</a>)
 - Theme Check — A simple and easy way to test your theme for all the latest WordPress standards and practices. A great theme development tool! (Link: <a href="https://wordpress.org/plugins/theme-check/">https://wordpress.org/plugins/theme-check/</a>)
