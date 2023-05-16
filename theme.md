@@ -16,7 +16,7 @@ By utilizing the site editor, we will be able to edit the theme based on the tem
 ### Typography
 We make use of the Google Fonts Plugin and selected these two fonts:
 - Vollkorn (serif font for the headings)
-- Verdana (sans-serif font for other text, including buttons)
+- Montserrat (sans-serif font for other text, including buttons)
 
 ### Colors
 We make use of a simple color palette, of which two colors are from the main logo itself (#000000, #F2F4F3, #2CAB52, #1C71B4, #33A7B5).
