@@ -6,7 +6,7 @@ The name of the website that we are making is `Baizonn Learning Center`. We need
 To manage the project itself, we made use of Discord, Trello, and a Word document for weekly standups to facilitate discussions and be aware of what needs to be done to get the project done with.
 
 Here are the links to those parts of the project management below:
-- Discord Server: <a href="https://discord.gg/dkcn2xmb">https://discord.gg/dkcn2xmb</a>
+- Discord Server: <a href="https://discord.gg/WXg58DXj4x">https://discord.gg/WXg58DXj4x</a>
 - Trello Board: <a href="https://trello.com/invite/b/D8OhootO/ATTIa15891788770f09cd357b644d7098c1742DC0F3D/scrum-board">https://trello.com/invite/b/D8OhootO/ATTIa15891788770f09cd357b644d7098c1742DC0F3D/scrum-board</a>
 - Word Document: <a href="https://docs.google.com/document/d/1GtrjRDZQkaEbULLmDWpl6ZJlFayCPcIzBdXRfIvQ3fM/edit?usp=sharing">https://docs.google.com/document/d/1GtrjRDZQkaEbULLmDWpl6ZJlFayCPcIzBdXRfIvQ3fM/edit?usp=sharing</a>
 
