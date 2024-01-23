@@ -1,5 +1,5 @@
 # Site Overview
-This document would describe the site's content. This includes the pages, posts, and plugins used for the (website)[https://baizonnlearningctr.com/].
+This document would describe the site's content. This includes the pages, posts, and plugins used for the [website](https://baizonnlearningctr.com/).
 
 ## Pages
 These are static pages that make the backbone of our website. However, they do not have the dynamic content, which will be shown in the `"Posts"` section.
